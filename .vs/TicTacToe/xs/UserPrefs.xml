@@ -1,24 +1,21 @@
 ﻿<Properties StartupConfiguration="{0C25AC2A-7F2F-44CF-989C-BD70B2E47663}|Default">
   <MonoDevelop.Ide.ItemProperties.TicTacToe PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="TicTacToe/Game.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="TicTacToe/Methods.cs">
     <Files>
-      <File FileName="TicTacToe/Program.cs" Line="20" Column="50" />
       <File FileName="TicTacToe/Game.cs" Line="26" Column="33" />
-      <File FileName="TicTacToe/Square.cs" Line="5" Column="41" />
-      <File FileName="TicTacToe/Methods.cs" Line="40" Column="10" />
+      <File FileName="TicTacToe/Square.cs" />
+      <File FileName="TicTacToe/Methods.cs" Line="1" Column="1" />
+      <File FileName="TicTacToe/ScoreKeeping.cs" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="TicTacToe" expanded="True">
             <Node name="TicTacToe" expanded="True">
-              <Node name="Game.cs" selected="True" />
+              <Node name="Methods.cs" selected="True" />
             </Node>
           </Node>
         </State>
-      </Pad>
-      <Pad Id="MonoDevelop.Debugger.WatchPad">
-        <State />
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
